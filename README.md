@@ -1,1 +1,2 @@
-# tamem-
+# devel ✨
+Epic Discord Bot
